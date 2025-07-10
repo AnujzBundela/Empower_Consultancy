@@ -108,10 +108,10 @@ function loadHeaderFooter(callback) {
               <div class="col-sm-6 col-lg-auto mb-4 mb-md-0 exploreLinks1">
               <h5 class="fourthH ">Programs & Plans</h5>
               <ul>   
-              <li><a href="#" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-1">link HERE</span></a></li> 
-              <li><a href="#" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-2">link HERE</span></a></li> 
-              <li><a href="#" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-3">link HERE</span></a></li> 
-              <li><a href="#" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-4">link HERE</span></a></li> 
+              <li><a href="careerConsultancy.html" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-1">link HERE</span></a></li> 
+              <li><a href="lifePurposeDiscovery.html" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-2">link HERE</span></a></li> 
+              <li><a href="interviewPreparation.html" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-3">link HERE</span></a></li> 
+              <li><a href="workLifeBalance.html" class="footerLinks"><i class="fa-solid fa-circle-chevron-right"></i> <span id="footer-service-4">link HERE</span></a></li> 
               
                  </ul>
                  </div>
